@@ -3,14 +3,15 @@
 
 
 ## Table of Contents
-1. [Overview](Overview)
-2. [Process](Process)
-4. [Limitations](Limitations)
-5. [Improvements](Improvements)
-6. [Tech Stack](Tech Stack)
-7. [Contributions](Contributions)
-8. [Disclaimer](Disclaimer)
-9. [References](References)
+1. [Overview](#overview)
+2. [Process](#process)
+4. [Limitations](#limitations)
+5. [Improvements](#improvements)
+6. [Tech Stack](#tech-stack)
+7. [Contributions](#contributions)
+8. [Disclaimer](#disclaimer)
+9. [References](#references)
+
 
 ## Overview
 Prediction markets aggregate dispersed public and private information into prices that function as real-time probabilistic forecasts. This project tests a core claim of market efficiency: **do closing prices on Kalshi fully incorporate the statistical signals contained in team performance data, or do systematic biases remain that a transparent statistical model can exploit?**
