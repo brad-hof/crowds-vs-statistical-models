@@ -1,6 +1,8 @@
 # The Wisdom of Crowds vs. Statistical Models
 ### Measuring Market Efficiency in NBA Outcome Predictions
 
+Comparing closing-line probabilities from the Kalshi prediction market website against a classical ELO rating model across the full 2025–26 NBA regular season.
+
 
 ## Table of Contents
 1. [Overview](#overview)
